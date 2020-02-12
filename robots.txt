@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiecidoh.tummelvision.tv/sitemap.xml
